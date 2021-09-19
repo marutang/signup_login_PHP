@@ -1,3 +1,3 @@
-# oasis
+# signup_login_PHP
 
-a web app for OASIS
+a practice of signup and login features by PHP
